@@ -14,8 +14,7 @@ The AI Web3 Wallet Persona Engine is an advanced analytics platform that transfo
 ## Live Demo
 
 Access the deployed application:  
-[https://nissymohan.github.io/ai-wallet-persona](https://nissymohan.github.io/ai-wallet-persona)  
-*(Replace with your actual GitHub Pages URL)*
+[https://nissymohan.github.io/AI-Wallet-Persona-Engine/]
 
 --------------------------------------------------------------------------------------
 
@@ -95,7 +94,7 @@ This project solves the growing challenge of understanding user behavior in a ps
 To run locally:
 
 ```bash
-git clone https://github.com/nissymohan/ai-wallet-persona.git
+git clone https://nissymohan.github.io/AI-Wallet-Persona-Engine/
 cd ai-wallet-persona
 open index.html
 
