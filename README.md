@@ -78,9 +78,13 @@ This project solves the growing challenge of understanding user behavior in a ps
 
 .
 ├── index.html # Main application interface
+
 ├── style.css # Custom UI styling
+
 ├── /static
+
 │ ├── background.jpg # Page background
+
 │ └── logo.png # App branding logo
 
 
