@@ -77,9 +77,7 @@ This project solves the growing challenge of understanding user behavior in a ps
 ## Folder Structure
 
 .
-├── index.html # Main application interface
-
-├── style.css # Custom UI styling
+├── index.html # Main application interface also includes the css and js
 
 ├── /static
 
